@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\omm",
+    "\\src\\omm\\OMA_FRM",
+    "\\src\\omm\\OMA_FRM\\include",
+    "\\src\\omm\\OMA_FRM\\src",
+    "\\src\\omm\\source\\aa",
+    "\\src\\omm\\source\\aa\\user",
+    "\\src\\omm\\source\\aa\\user\\src",
+    "\\src\\omm\\source\\lib",
+    "\\src\\omm\\source\\lib\\user",
+    "\\src\\omm\\source\\lib\\user\\include"
+  ],
+  "SelectedNode": "\\src\\omm\\OMA_FRM\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
